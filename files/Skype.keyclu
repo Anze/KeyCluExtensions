@@ -1,0 +1,42 @@
+{
+    "com.skype.skype": {
+        "General Hotkeys": [
+            ["Keyboard Shortcuts", "command", 42],
+            ["Navigate to recent chats", "option", 18],
+            ["Open Help in browser", "control", 4],
+            ["Open Notification panel", "shift+command", 31],
+            ["Open themes", "command", 17],
+            ["Send feedback", "command+option", 31],
+            ["Toggle light/dark mode", "shift+command", 17]
+        ],
+        "Messaging Hotkeys": [
+            ["Add people to conversation", "shift+command", 0],
+            ["Archive selected conversation", "command", 14],
+            ["Edit the last message sent", "shift+command", 14],
+            ["Focus the message composer", "shift+control", 14],
+            ["Mark as unread", "shift+command", 32],
+            ["Multi-select messages", "shift+command", 37],
+            ["Open contacts", "shift+command", 8],
+            ["Open gallery", "shift+command", 5],
+            ["Search within selected conversation", "command", 3],
+            ["Send file", "shift+command", 3],
+            ["Show conversation profile", "command", 34]
+        ],
+        "Calling Hotkeys": [
+            ["Add people to a call", "shift+command", 0],
+            ["Answer incoming call", "shift+command", 15],
+            ["Hang up", "shift+command", 4],
+            ["Launch dial pad", "command", 19],
+            ["Resize camera preview", "shift+command", 38],
+            ["Start a video call", "shift+command", 40],
+            ["Start an audio call", "shift+command", 15],
+            ["Take a snapshot", "command", 1],
+            ["Toggle Mute", "shift+command", 46],
+            ["Toggle camera", "shift+command", 40]
+        ],
+        "Accessibility": [
+            ["Announce microphone status during a call", "shift+command+option", 46],
+            ["Announce own video status during a call", "shift+command+option", 40]
+        ]
+    }
+}
