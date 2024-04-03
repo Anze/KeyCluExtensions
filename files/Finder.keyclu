@@ -1,0 +1,8 @@
+{
+    "com.apple.finder": {
+        "Hotkeys": [
+            ["Open Selection", "command", 125],
+            ["Show/Hide dot files", "shift+command", 47]
+        ]
+    }
+}
