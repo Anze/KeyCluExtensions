@@ -1,0 +1,30 @@
+{
+    "com.sequel-ace.sequel-ace": {
+        "Advanced Query Editing": [
+            ["Completion (narrow-down list / fuzzy search)", "", 53],
+            ["Insert previous history item (successively)", "control", 126],
+            ["Open query favorites popup menu", "command+option", 3],
+            ["Open query history popup menu", "command+option", 16],
+            ["Show all database names as completion list", "command+option", 18],
+            ["Show all table and view names as completion list", "command+option", 19],
+            ["Show all table names from current database as completion list", "command+option", 20],
+            ["Spell Checker Completion (narrow-down list)", "", 96]
+        ],
+        "Tables": [
+            ["Add a new row", "command+option", 0],
+            ["Delete selected row(s)", "", 51],
+            ["Duplicate selected row", "command", 2],
+            ["Refresh table contents", "command", 15]
+        ],
+        "Hotkeys": [
+            ["(Un)Comment current query", "command", 44],
+            ["(Un)Comment line or selection", "command+option", 44],
+            ["Fuzzy Search", "control", 53],
+            ["Insert next history item (successively)", "control", 125],
+            ["Run all queries", "command+option", 15],
+            ["Run current query or selection", "command", 15],
+            ["Shift line or selection leftwards", "command", 30],
+            ["Shift line or selection rightwards", "command", 33]
+        ]
+    }
+}
