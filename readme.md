@@ -1,5 +1,8 @@
 # KeyClu Extensions
 
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Anze/KeyCluExtensions/pulls)
+[![license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/mit)
+
 [KeyClu](https://github.com/Anze/KeyCluCask) is a simple app that provides an overview of application shortcuts.
 
 This repository is a collection of hotkeys for apps that aren't reflected in the menu as shortcuts.
