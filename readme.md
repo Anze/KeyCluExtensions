@@ -25,6 +25,7 @@ Use "Export" button in `Settings` -> `My Shortcuts` to save custom app shortcuts
 # Extensions List
 
 - [Finder](./files/Finder.keyclu)
+- [Notion](./files/Notion.keyclu)
 - [Sequel Ace](./files/SequelAce.keyclu)
 - [Skype](./files/Skype.keyclu)
 
