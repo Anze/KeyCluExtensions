@@ -1,0 +1,102 @@
+{
+    "notion.id": {
+        "Common": [
+            ["Ask AI", "command", 38],
+            ["Comment", "shift+command", 46],
+            ["Duplicate (with content)", "command", 2],
+            ["Duplicate (without content)", "shift+command", 2],
+            ["New Page", "command", 45],
+            ["Open in New Tab", "shift+command", 36],
+            ["Open in Side Pick  ⌥ + click", "", -1],
+            ["Rename", "shift+command", 15],
+            ["Search", "command", 35]
+        ],
+        "Editing": [
+            ["Bold                  **text**", "command", 11],
+            ["Code                    ```", "", -1],
+            ["Create Equation", "shift+command", 14],
+            ["Divider                 ---", "", -1],
+            ["Header               # text", "", -1],
+            ["Inline                   `text`", "command", 14],
+            ["Italic                    *text*", "command", 34],
+            ["Quote                 \" text", "", -1],
+            ["Strikethrough     ~text~", "shift+command", 1],
+            ["Toggle                > text", "", -1],
+            ["Underline", "command", 32]
+        ],
+        "Styles": [
+            ["Bullet", "command+option", 23],
+            ["Code", "command+option", 28],
+            ["Duplicate              ⌥ + drag", "", -1],
+            ["Heading 1", "command+option", 18],
+            ["Heading 2", "command+option", 19],
+            ["Heading 3", "command+option", 20],
+            ["New page", "command+option", 25],
+            ["Number", "command+option", 22],
+            ["Text", "command+option", 29],
+            ["Todo", "command+option", 21],
+            ["Toggle", "command+option", 26],
+            ["Up 1 Level", "shift+command", 32]
+        ],
+        "Blocks": [
+            ["Apply Last Color", "shift+command", 4],
+            ["Change Block", "command", 44],
+            ["Copy link to Block", "shift+option", 37],
+            ["Duplicate Block", "command", 2],
+            ["Edit Multiple Cards", "command", 44],
+            ["Expand/Close Toggles", "command+option", 17],
+            ["Move to", "shift+command", 35],
+            ["Open Image in Full Screen", "", 49],
+            ["Select Block", "", 53]
+        ],
+        "Commands (Common)": [
+            ["Bullet                 /bullet", "", -1],
+            ["Divider               /div", "", -1],
+            ["Link                    /link", "", -1],
+            ["New page          /page", "", -1],
+            ["New text            /text", "", -1],
+            ["Number              /num", "", -1],
+            ["Quote                 /quote", "", -1],
+            ["Table                  /table", "", -1],
+            ["Todo                   /todo", "", -1],
+            ["Toggle                /toggle", "", -1]
+        ],
+        "Commands (Inline)": [
+            ["Emoji                 /emoji", "", -1],
+            ["Mention             /mention", "", -1],
+            ["Reminder           /reminder", "", -1],
+            ["Timestamp        /date", "", -1]
+        ],
+        "Commands (Media)": [
+            ["Audio                  /audio", "", -1],
+            ["Embed                /embed", "", -1],
+            ["File                      /file", "", -1],
+            ["Image                 /image", "", -1],
+            ["PDF                     /pdf", "", -1],
+            ["Video                  /video", "", -1],
+            ["Web Bookmark  /book", "", -1]
+        ],
+        "Commands (Advanced)": [
+            ["Breadcrumb       /bread", "", -1],
+            ["Button                 /button", "", -1],
+            ["Comment            /comment", "", -1],
+            ["Duplicate             /duplicate", "", -1],
+            ["Move                    /moveto", "", -1],
+            ["Table of Content /toc", "", -1]
+        ],
+        "Commands (Color)": [
+            ["Different block     /turn", "", -1],
+            ["Set Background   /red background", "", -1],
+            ["Set Color              /red", "", -1],
+            ["Set Default Color /default", "", -1]
+        ],
+        "Commands (@)": [
+            ["Page Link            @page", "", -1],
+            ["Reminder             @remind <date>", "", -1],
+            ["Today's date       @today", "", -1],
+            ["Tomorrow (rel)    @\"tomorrow\"", "", -1],
+            ["Weekday (rel)      @\"next Monday\"", "", -1],
+            ["Yesterday (rel)    @\"yesterday\"", "", -1]
+        ]
+    }
+}
