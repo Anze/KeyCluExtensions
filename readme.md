@@ -27,6 +27,7 @@ Use "Export" button in `Settings` -> `My Shortcuts` to save custom app shortcuts
 - [Finder](./files/Finder.keyclu)
 - [Notion](./files/Notion.keyclu)
 - [Sequel Ace](./files/SequelAce.keyclu)
+- [Slack](./files/Slack.keyclu)
 - [Skype](./files/Skype.keyclu)
 
 # License
