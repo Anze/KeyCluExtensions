@@ -1,0 +1,26 @@
+{
+    "com.tinyspeck.slackmacgap": {
+        "Status": [
+            ["Set Status", "shift+command", 16]
+        ],
+        "Message": [
+            ["Add an Emoji Reaction", "shift+command", 42],
+            ["Create a New Snippet", "shift+command", 36],
+            ["Unsend a Message", "command", 6],
+            ["Upload File", "command", 32]
+        ],
+        "Huddle": [
+            ["Start / Join / Leave / End", "shift+command", 4],
+            ["Toggle Mute (?)", "shift+command", 49]
+        ],
+        "Sidebar": [
+            ["Hide Right Sidebar", "command", 47]
+        ],
+        "Window": [
+            ["Reopen Closed Window", "shift+command", 13]
+        ],
+        "Help": [
+            ["Open Help", "", 122]
+        ]
+    }
+}
