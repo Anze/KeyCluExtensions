@@ -16,11 +16,20 @@ If you have any questions or suggestions please open an issue at [KeyClu](https:
 ## Import
 You can import these files into [KeyClu](https://github.com/Anze/KeyCluCask) for display purposes.
 
-Download file and double tap it to import. Or use "Import" button in `Settings` -> `My Shortcuts`.
+Download file from `files` directory and double tap it to import. Or use "Import" button in `Settings` -> `My Shortcuts`.
 
 ## Export
 
-Use "Export" button in `Settings` -> `My Shortcuts` to save custom app shortcuts to a file. Make a PR to this repository to share file with others.
+Use "Export" button in `Settings` -> `My Shortcuts` to save custom app shortcuts to a file.
+
+To contribute your saved file:
+- Fork this repo ( https://github.com/Anze/KeyCluExtensions/fork )
+- Add your file to proper place in `files` directory
+- Create your branch ```git checkout -b add-myapp-shortcuts```
+- Commit your changes ```git commit -am 'Add MYAPP shortcuts'```
+- Push to the branch ```git push origin add-myapp-shortcuts```
+- Create a new `Pull Request`
+- You're awesome! 👍
 
 # Extensions List
 
