@@ -1,0 +1,25 @@
+{
+    "com.mongodb.compass": {
+        "🍀 Shortcuts": [
+            ["Clears the screen (clear command)", "command", 37],
+            ["Stop currently running command", "control", 8],
+            ["Toggle shell (when not focused)", "control", 50]
+        ],
+        "Move the cursor": [
+            ["Backward one character", "control", 11],
+            ["Forward one character", "control", 3],
+            ["To the beginning of the line", "control", 0],
+            ["To the end of the line", "control", 14]
+        ],
+        "Editing": [
+            ["Changes the line to Uppercase", "control", 32],
+            ["Delete next character", "control", 2],
+            ["Erase one character (backspace)", "control", 4],
+            ["Swap the last 2 characters before the cursor", "control", 17]
+        ],
+        "Command History": [
+            ["Cycle backwards", "", 126],
+            ["Cycle forwards", "", 125]
+        ]
+    }
+}

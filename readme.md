@@ -33,11 +33,21 @@ To contribute your saved file:
 
 # Extensions List
 
+Common:
 - [Finder](./files/Finder.keyclu)
-- [Notion](./files/Notion.keyclu)
-- [Sequel Ace](./files/SequelAce.keyclu)
-- [Slack](./files/Slack.keyclu)
+
+Messangers:
+- [Microsoft Teams](./files/MicrosoftTeams.keyclu)
 - [Skype](./files/Skype.keyclu)
+- [Slack](./files/Slack.keyclu)
+- [Telegram](./files/Telegram.keyclu)
+
+Developer:
+- [MongoDB Compass](./files/MongoDBCompass.keyclu)
+- [Sequel Ace](./files/SequelAce.keyclu)
+
+Notes:
+- [Notion](./files/Notion.keyclu)
 
 # License
 
