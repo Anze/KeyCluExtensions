@@ -36,7 +36,7 @@ To contribute your saved file:
 Common:
 - [Finder](./files/Finder.keyclu)
 
-Messangers:
+Messengers:
 - [Microsoft Teams](./files/MicrosoftTeams.keyclu)
 - [Skype](./files/Skype.keyclu)
 - [Slack](./files/Slack.keyclu)
