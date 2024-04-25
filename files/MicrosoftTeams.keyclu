@@ -1,0 +1,26 @@
+{
+    "com.microsoft.teams": {
+        "Meeting": [
+            ["Leave Meeting", "shift+command", 4],
+            ["Mute/Unmute", "shift+command", 46],
+            ["Raise Hand", "shift+command", 40],
+            ["Share content", "shift+command", 14],
+            ["Turn Camera on/off", "shift+command", 31],
+            ["Zoom In", "command", 24],
+            ["Zoom Out", "command", 27],
+            ["Zoom Reset", "command", 29]
+        ]
+    },
+    "com.microsoft.teams2": {
+        "Meeting": [
+            ["Leave Meeting", "shift+command", 4],
+            ["Mute/Unmute", "shift+command", 46],
+            ["Raise Hand", "shift+command", 40],
+            ["Share content", "shift+command", 14],
+            ["Turn Camera on/off", "shift+command", 31],
+            ["Zoom In", "command", 24],
+            ["Zoom Out", "command", 27],
+            ["Zoom Reset", "command", 29]
+        ]
+    }
+}

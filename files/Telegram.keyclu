@@ -1,0 +1,42 @@
+{
+    "ru.keepcoder.Telegram": {
+        "Chat": [
+            ["Edit Last Message", "", 126],
+            ["Open Info", "", 124],
+            ["Record Voice/Video Message", "command", 15],
+            ["Search Messages", "command", 3],
+            ["Select Message To Reply (down)", "command", 125],
+            ["Select Message To Reply (up)", "command", 126]
+        ],
+        "Video Chat": [
+            ["Toggle Camera", "command", 14],
+            ["Toggle Screen Sharing", "command", 17]
+        ],
+        "Search": [
+            ["Quick Search", "command", 40]
+        ],
+        "Message Markdown": [
+            ["Bold                    **text**", "command", 11],
+            ["Italic                   __text__", "command", 34],
+            ["Make Link", "command", 32],
+            ["Monospace          `text`", "shift+command", 40],
+            ["Quote", "shift+command", 34],
+            ["Spoiler", "shift+command", 35],
+            ["Strikethrough    ~~text~~", "shift+command", 7],
+            ["Underline", "shift+command", 32]
+        ],
+        "Lock": [
+            ["Lock by Passcode", "command", 37]
+        ],
+        "Mouse": [
+            ["Fast Reply [double click]", "", -1],
+            ["Schedule msg [⌥ + click 'send']", "", -1]
+        ],
+        "Gestures": [
+            ["Chat List Actions [swipe left or right]", "", -1],
+            ["Navigation Back [swipe left to right]", "", -1],
+            ["Reply [swipe right to left]", "", -1],
+            ["Sticker/Emoji [swipe left or right]", "", -1]
+        ]
+    }
+}
