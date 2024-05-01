@@ -1,0 +1,58 @@
+{
+    "com.adobe.Photoshop": {
+        "Viewing Images": [
+            ["Cycle through open documents", "control", 48],
+            ["Switch to previous document", "shift+command", 39],
+            ["Close file in Photoshop and open Bridge", "shift+command", 13],
+            ["Toggle Standard / Quick Mask mode", "", 12],
+            ["Toggle (forward) Standard / Full screen mode", "", 3],
+            ["Toggle (backward) Standard / Full screen mode", "shift", 3],
+            ["Magnify 100%", "command", 18],
+            ["Switch to Hand tool", "", 49],
+            ["Switch to Zoom In tool", "command", 49],
+            ["Switch to Zoom Out tool", "option", 49],
+            ["Apply zoom percentage", "shift", 36],
+            ["Temporarily zoom in (with click)", "", 4],
+            ["Scroll up 1 screen", "", 116],
+            ["Scroll down 1 screen", "", 121],
+            ["Scroll up 10 units", "shift", 116],
+            ["Scroll down 10 units", "shift", 121],
+            ["Move to upper-left corner", "", 115],
+            ["Move to lower right corner", "", 119],
+            ["Toggle layer mask on/off", "", 42]
+        ],
+        "Tools": [
+            ["Move tool", "", 9],
+            ["Marquee tool", "", 46],
+            ["Lasso tool", "", 37],
+            ["Magic Wand / Quick Selection tool", "", 13],
+            ["Crop / Slice tool", "", 8],
+            ["Eyedropper / Ruler / Note / Count tool", "", 34],
+            ["Healing Brush tool", "", 38],
+            ["Brush / Pencil / Color / Mixer tool", "", 11],
+            ["Stamp tool", "", 1],
+            ["History Brush tool", "", 16],
+            ["Eraser tool", "", 14],
+            ["Gradient / Paint Bucket tool", "", 5],
+            ["Dodge / Burn / Sponge tool", "", 31],
+            ["Pen tool", "", 35],
+            ["Type tool", "", 17],
+            ["Path / Direct Selection tool", "", 0],
+            ["Shape tool", "", 32],
+            ["3D Object tool", "", 40],
+            ["3D Camera tool", "", 45],
+            ["Hand tool", "", 4],
+            ["Rotate View tool", "", 15],
+            ["Zoom tool", "", 6]
+        ],
+        "Fill": [
+            ["Fill with foreground color", "option", 51],
+            ["Fill with background color", "command", 51],
+            ["Fill dialog box", "shift", 51]
+        ],
+        "Colors": [
+            ["Default foreground/background colors", "", 2],
+            ["Exchange foreground/background colors", "", 7]
+        ]
+    }
+}

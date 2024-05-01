@@ -34,20 +34,25 @@ To contribute your saved file:
 # Extensions List
 
 Common:
-- [Finder](./files/Finder.keyclu)
+- [Finder](./files/common/Finder.keyclu)
+
+Graphics:
+- [Adobe Illustrator](./files/graphics/AdobeIllustrator.keyclu)
+- [Adobe InDesign](./files/graphics/AdobeInDesign.keyclu)
+- [Adobe Photoshop](./files/graphics/AdobePhotoshop.keyclu)
 
 Messengers:
-- [Microsoft Teams](./files/MicrosoftTeams.keyclu)
-- [Skype](./files/Skype.keyclu)
-- [Slack](./files/Slack.keyclu)
-- [Telegram](./files/Telegram.keyclu)
+- [Microsoft Teams](./files/messengers/MicrosoftTeams.keyclu)
+- [Skype](./files/messengers/Skype.keyclu)
+- [Slack](./files/messengers/Slack.keyclu)
+- [Telegram](./files/messengers/Telegram.keyclu)
 
 Developer:
-- [MongoDB Compass](./files/MongoDBCompass.keyclu)
-- [Sequel Ace](./files/SequelAce.keyclu)
+- [MongoDB Compass](./files/dev/MongoDBCompass.keyclu)
+- [Sequel Ace](./files/dev/SequelAce.keyclu)
 
 Notes:
-- [Notion](./files/Notion.keyclu)
+- [Notion](./files/notes/Notion.keyclu)
 
 # License
 
